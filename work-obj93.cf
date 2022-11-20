@@ -1,0 +1,4 @@
+v 4
+file . "mux.vhd" "ecc1c8ca856de9b45eb89d5d1b331caddd04aaa0" "20221120070900.070":
+  entity mux at 1( 0) + 0 on 11;
+  architecture behav of mux at 9( 128) + 0 on 12;
